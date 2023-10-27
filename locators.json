@@ -1,0 +1,9 @@
+{
+    "SponsImgBgStickyConta": {
+        "screenshot": ".images\\sponsimgbgstickyconta-screenshot.png",
+        "source": "https://www.interia.pl/",
+        "strategy": "css",
+        "type": "browser",
+        "value": ".sponsImgBgStickyCont > a"
+    }
+}
